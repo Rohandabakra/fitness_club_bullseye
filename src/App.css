@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Courier New', Courier, monospace;
 }
 body {
   background-color: #ffffff;
@@ -14,7 +14,7 @@ body {
   justify-content:center;
   align-items:center;
   flex-direction: column;
-  background-image: url('https://c4.wallpaperflare.com/wallpaper/65/859/716/anime-original-gym-hd-wallpaper-preview.jpg');
+  background-image: url('https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/27/black-and-white-gym-wallpaper/768925829.jpg');
   background-repeat: no-repeat;
   background-size:cover;
 }
